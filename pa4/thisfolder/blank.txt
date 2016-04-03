@@ -1,0 +1,165 @@
+{"list" : [
+	{"A" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"Gregor" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"He" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"I" : [
+		{thisdirectory/test9.txt : 2},
+	]},
+	{"One" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"Samsa" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"a" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"alone" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"am" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"and" : [
+		{thisdirectory/test8.txt : 1},
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"armourlike" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"back" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"bed" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"charm" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"dreams" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"enjoy" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"entire" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"feel" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"found" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"from" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"has" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"he" : [
+		{thisdirectory/test8.txt : 2},
+	]},
+	{"heart" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"himself" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"his" : [
+		{thisdirectory/test8.txt : 2},
+	]},
+	{"horrible" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"if" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"in" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"into" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"lay" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"lifted" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"like" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"morning" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"mornings" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"my" : [
+		{thisdirectory/test9.txt : 2},
+	]},
+	{"of" : [
+		{thisdirectory/test9.txt : 2},
+	]},
+	{"on" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"possession" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"serenity" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"soul" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"spring" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"sweet" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"taken" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"the" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"these" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"transformed" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"troubled" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"vermin" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"when" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"which" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"whole" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"with" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+	{"woke" : [
+		{thisdirectory/test8.txt : 1},
+	]},
+	{"wonderful" : [
+		{thisdirectory/test9.txt : 1},
+	]},
+]}

@@ -1,0 +1,65 @@
+{"list" : [
+	{"another" : [
+		{testdir/anotherDir/test1.txt : 1},
+	]},
+	{"anotherdir" : [
+		{testdir/anotherDir/starbucks.txt : 1},
+	]},
+	{"directory" : [
+		{testdir/anotherDir/test1.txt : 1},
+	]},
+	{"each" : [
+		{testdir/testfile1.txt : 1},
+	]},
+	{"file" : [
+		{testdir/anotherDir/starbucks.txt : 1},
+		{testdir/anotherDir/test1.txt : 1},
+		{testdir/testfile2.txt : 1},
+		{testdir/testfile3.txt : 1},
+	]},
+	{"hello" : [
+		{testdir/anotherDir/starbucks.txt : 1},
+	]},
+	{"heyeheyeheheye" : [
+		{testdir/anotherDir/starbucks.txt : 1},
+	]},
+	{"in" : [
+		{testdir/anotherDir/starbucks.txt : 1},
+		{testdir/anotherDir/test1.txt : 1},
+	]},
+	{"increments" : [
+		{testdir/testfile1.txt : 1},
+	]},
+	{"is" : [
+		{testdir/t2.txt : 3},
+		{testdir/t1.txt : 1},
+		{testdir/t3.txt : 1},
+	]},
+	{"t1" : [
+		{testdir/t1.txt : 1},
+	]},
+	{"t2" : [
+		{testdir/t2.txt : 1},
+	]},
+	{"t3" : [
+		{testdir/t3.txt : 1},
+	]},
+	{"test" : [
+		{testdir/testfile2.txt : 1},
+		{testdir/testfile3.txt : 1},
+	]},
+	{"this" : [
+		{testdir/t3.txt : 3},
+		{testdir/t1.txt : 1},
+		{testdir/t2.txt : 1},
+	]},
+	{"three" : [
+		{testdir/testfile3.txt : 1},
+	]},
+	{"two" : [
+		{testdir/testfile2.txt : 1},
+	]},
+	{"words" : [
+		{testdir/testfile1.txt : 1},
+	]},
+]}
