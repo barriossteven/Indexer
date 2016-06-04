@@ -1,2 +1,2 @@
 # Indexer
-cs214 Indexer
+Program written in C for opening and reading files/directories recursively and indexing words.
